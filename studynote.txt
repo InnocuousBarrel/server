@@ -1,0 +1,6 @@
+HEY REMEMBER TO STUDY, AM I RIGHT?
+STAY IN SCHOOL.
+NO TOUCHING PLZ.
+
+git add <file name>
+git commit -m
