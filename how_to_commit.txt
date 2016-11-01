@@ -1,0 +1,17 @@
+Should I ever forget, this is how it all works.
+
+$ git init
+I don't have to use this anymore but I have this now.
+
+$ git add <filename>
+This can be one file, two file, red file, blue file, just as long as it works.
+
+$ git commit -m "<message>"
+Commits the work from line 6, along with a message.
+
+git remote add origin https://github.com/InnocuousBarrel/server.git
+git remote -v
+I don't think I have to use this either but it's one of those things.
+
+git push origin master
+Completes the master plan.
